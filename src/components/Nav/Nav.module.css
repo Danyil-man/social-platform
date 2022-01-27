@@ -1,0 +1,21 @@
+.nav{
+    grid-area: n;
+    background-color: black;
+    text-align: center;
+    
+  }
+
+  .item{
+      padding: 20px;
+   }
+ 
+  .item a{
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+    }
+
+.item a.active{
+    text-decoration: underline;
+    color: wheat;
+}

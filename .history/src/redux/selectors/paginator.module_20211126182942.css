@@ -1,0 +1,8 @@
+span {
+  cursor: pointer;
+  margin: 5px;
+}
+.activePage {
+  font-weight: bold;
+  cursor: pointer;
+}

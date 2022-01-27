@@ -1,0 +1,16 @@
+.ava{
+    border-radius: 20px;
+}
+
+.usersContent{
+    margin: 20px;
+}
+
+
+span{
+    cursor: pointer;
+}
+.activePage{
+    font-weight: bold;
+    cursor: pointer;
+}

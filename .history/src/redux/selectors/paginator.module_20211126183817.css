@@ -1,0 +1,14 @@
+span {
+  cursor: pointer;
+  padding: 5px;
+  border: 1px solid #333;
+  margin: 0 5px;
+}
+.activePage {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.paginator__wrapper {
+  margin: 20px;
+}

@@ -1,0 +1,15 @@
+
+  .header{
+    grid-area: h;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid wheat;
+  }
+  .logotext{
+    font-size: 26px;
+    font-weight: 500s;
+    padding-right: 20px;
+  }

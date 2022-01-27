@@ -1,0 +1,4 @@
+.form__control.error input,
+.form__control.error textarea {
+  border-color: red;
+}

@@ -6,6 +6,8 @@ import { AuthRedirect } from "../hoc/AuthRedirect";
 import { compose } from "redux";
 import { AppStateType } from "../../redux/reduxStore";
 
+
+
 let mapStateToProps = (state: AppStateType) => {
   return {
     messagePage: state.messagePage,
